@@ -1,0 +1,7 @@
+{
+  "name": "Zen Slice",
+  "description": "A gesture-controlled fruit slicing game powered by computer vision and AI. Use your hand to slice fruits and avoid bombs!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
